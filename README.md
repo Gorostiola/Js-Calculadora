@@ -1,2 +1,2 @@
 # Js-Calculadora
-Desarrolladar solo en JavaScript
+Desarrollada solo en JavaScript
